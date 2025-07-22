@@ -1,0 +1,10 @@
+﻿<AlibreDesignAddOn specificationVersion="2" friendlyName="alibre-lab-addon">
+<Author name="Stephen S. Mitchell" link="https://github.com/Testbed-for-Alibre-Design/alibre-lab-addon"/>
+   <Copyright>Copyright (c) 2025 Stephen S. Mitchell</Copyright>
+   <DLL type="Managed" loadedWhen="Startup" location="alibre-lab-addon.dll"/>
+   <Icon location="Icons\logo.ico"/> 
+   <Menu text="alibre-lab-addon"/>
+   <Description>alibre-lab-addon </Description> 
+   <Workspace type="Always"/>
+   <Property name="Identifier" value="alibre-lab-addon"/>
+</AlibreDesignAddOn>
